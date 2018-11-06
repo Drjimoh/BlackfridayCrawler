@@ -1,0 +1,17 @@
+/* Welcome to JumiaCrawler */
+
+author: drjimoh
+date:06/11/2018
+email:waliu(dot)jimoh@yahoo.com   #don't spam
+
+
+Well I just thought there should be a way of crawling through jumia pages and 
+finding the best deals in the predicted heat of the upcoming black friday within a short period of time (error free too),
+I have goodnews and bad news, goodnews first: as at when I wrote this program, jumia's robot.txt file has nothing on my spiders,
+so I created a spider i called Aragog, Aragog was able to crawl 11 jumia pages within 26.93 seconds and I have excel files with 
+items and their discount percentage (I used a threshold of 50% discount). The badnews is this, you will have to buy me a bottle of 
+non-alcoholic beer if you want me to refactor my code for you. 
+
+
+Gracias muy bien.
+Me gustaria una taza de cafe con leche.
